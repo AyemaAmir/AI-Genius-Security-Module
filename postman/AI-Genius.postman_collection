@@ -1,0 +1,83 @@
+{
+  "info": {
+    "_postman_id": "b15137e3-158e-409a-8088-ff4a57662bff",
+    "name": "AI-Genius Auth",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55516250",
+    "_collection_link": "https://go.postman.co/collection/55516250-b15137e3-158e-409a-8088-ff4a57662bff?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "01 - Login Free User",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "02 - Access Free Model",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "03 - Premium Blocked Free User",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "04 - Login Premium User",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "05 - Access Premium Model",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "07 - Refresh Token",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "08 - Login Admin",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "09 - Purge Cache Admin",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "10 - Purge Blocked Free User",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
